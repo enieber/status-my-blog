@@ -5,7 +5,7 @@
     "slug": "meu-blog",
     "status": "up",
     "uptime": "100.00",
-    "time": 235
+    "time": 241
   },
   {
     "name": "Meu site",
@@ -13,7 +13,7 @@
     "slug": "meu-site",
     "status": "up",
     "uptime": "100.00",
-    "time": 294
+    "time": 276
   },
   {
     "name": "Libreflix",
@@ -21,6 +21,6 @@
     "slug": "libreflix",
     "status": "up",
     "uptime": "100.00",
-    "time": 585
+    "time": 612
   }
 ]
