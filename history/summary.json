@@ -4,16 +4,16 @@
     "url": "https://olha-oque-fiz.vercel.app/",
     "slug": "meu-blog",
     "status": "up",
-    "uptime": "99.54%",
+    "uptime": "99.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.54%",
-    "uptimeYear": "99.54%",
-    "time": 230,
-    "timeDay": 234,
-    "timeWeek": 175,
-    "timeMonth": 230,
-    "timeYear": 230
+    "uptimeMonth": "99.57%",
+    "uptimeYear": "99.57%",
+    "time": 228,
+    "timeDay": 202,
+    "timeWeek": 171,
+    "timeMonth": 228,
+    "timeYear": 228
   },
   {
     "name": "Meu site",
@@ -25,11 +25,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 280,
-    "timeDay": 207,
-    "timeWeek": 258,
-    "timeMonth": 280,
-    "timeYear": 280
+    "time": 286,
+    "timeDay": 400,
+    "timeWeek": 284,
+    "timeMonth": 286,
+    "timeYear": 286
   },
   {
     "name": "Libreflix",
@@ -41,10 +41,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 638,
-    "timeDay": 552,
-    "timeWeek": 681,
-    "timeMonth": 638,
-    "timeYear": 638
+    "time": 626,
+    "timeDay": 417,
+    "timeWeek": 664,
+    "timeMonth": 626,
+    "timeYear": 626
   }
 ]
