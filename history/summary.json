@@ -43,19 +43,19 @@
     "url": "https://libreflix.org",
     "icon": "https://favicons.githubusercontent.com/libreflix.org",
     "slug": "libreflix",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 624,
-    "timeDay": 772,
-    "timeWeek": 631,
-    "timeMonth": 624,
-    "timeYear": 624,
+    "status": "up",
+    "uptime": "98.43%",
+    "uptimeDay": "62.74%",
+    "uptimeWeek": "94.68%",
+    "uptimeMonth": "98.43%",
+    "uptimeYear": "98.43%",
+    "time": 629,
+    "timeDay": 768,
+    "timeWeek": 648,
+    "timeMonth": 629,
+    "timeYear": 629,
     "dailyMinutesDown": {
-      "2020-12-14": 0
+      "2020-12-14": 537
     }
   }
 ]
